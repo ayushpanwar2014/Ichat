@@ -5,12 +5,12 @@ import { getStorage } from "firebase/storage";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDYLUlI13U1R3RQwyT1PjRnSx6rBIIqwfY",
-  authDomain: "ichat-1646b.firebaseapp.com",
-  projectId: "ichat-1646b",
-  storageBucket: "ichat-1646b.appspot.com",
-  messagingSenderId: "219558170369",
-  appId: "1:219558170369:web:6abd7b0b1beec07413d500"
+  apiKey: "AIzaSyASY8qaF0kOV8mc0g5GKICogQeR3KwNIuU",
+  authDomain: "ichat1-edf7d.firebaseapp.com",
+  projectId: "ichat1-edf7d",
+  storageBucket: "ichat1-edf7d.appspot.com",
+  messagingSenderId: "1042653240666",
+  appId: "1:1042653240666:web:b422018dd6a3ec093b6763"
 };
 
 const app = initializeApp(firebaseConfig);
